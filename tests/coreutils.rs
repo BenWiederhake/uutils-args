@@ -19,6 +19,9 @@ mod date;
 #[path = "coreutils/dd.rs"]
 mod dd;
 
+#[path = "coreutils/du.rs"]
+mod du;
+
 #[path = "coreutils/echo.rs"]
 mod echo;
 
